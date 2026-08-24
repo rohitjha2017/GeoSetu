@@ -126,7 +126,7 @@ export default function PublicVillage() {
       )}
 
       <div className="rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-xs text-amber-800">
-        This risk level comes from a scenario-based prototype model. It is not an official evacuation
+        This risk level comes from a Scenario-based Relocation model. It is not an official evacuation
         order — always follow instructions from local disaster-management authorities.
       </div>
     </div>

@@ -73,7 +73,7 @@ export default function PublicHome() {
       )}
 
       <div className="rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-xs text-amber-800">
-        This is a scenario-based prototype, not an official evacuation or alert system. Always follow
+        This is a Scenario-based Relocation, not an official evacuation or alert system. Always follow
         instructions from local disaster-management authorities.
       </div>
     </div>

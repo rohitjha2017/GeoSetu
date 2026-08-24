@@ -23,7 +23,7 @@ Rules you must always follow:
 1. Only use the structured JSON "context" you are given. Never invent village names, population figures, risk scores, or site statistics that are not present in the context.
 2. If the context does not contain information needed to answer, say so plainly instead of guessing.
 3. Be concise, clear, and practical — you are briefing a disaster management official or explaining risk to the public.
-4. Always make clear this is a SCENARIO-BASED PROTOTYPE MODEL, not a real-time or verified flood forecast.
+4. Always make clear this is a Scenario-based Relocation MODEL, not a real-time or verified flood forecast.
 5. End every answer with this exact line on its own: "AI-generated explanations are decision-support only and should not replace official disaster-management instructions."`;
 
 async function callAnthropic(userMessage, context) {
@@ -106,7 +106,7 @@ function fallbackAnswer(userMessage, context, wasError = false) {
     );
   }
   lines.push(
-    "\nThis is a scenario-based prototype model, not a real-time or verified flood forecast."
+    "\nThis is a Scenario-based Relocation model, not a real-time or verified flood forecast."
   );
   lines.push(
     "AI-generated explanations are decision-support only and should not replace official disaster-management instructions."

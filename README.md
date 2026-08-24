@@ -4,7 +4,7 @@ A functional decision-support prototype demonstrating: **Flood scenario → Risk
 Vulnerable villages → Relocation priority → Suitable relocation sites → Capacity
 assessment → AI-assisted explanation**, using a Bihar / Koshi river flooding scenario.
 
-> **This is a scenario-based prototype.** All risk scores, flood zones, and relocation
+> **This is a Scenario-based Relocation.** All risk scores, flood zones, and relocation
 > figures come from a deterministic demo scoring model, not a real hydrological
 > forecast. Village, site, and service data is clearly-marked demo/prototype data.
 

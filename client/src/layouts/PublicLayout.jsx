@@ -47,7 +47,7 @@ export default function PublicLayout() {
         <Outlet />
       </main>
       <footer className="border-t border-slate-200 bg-white px-4 py-3 text-center text-[11px] text-slate-400">
-        Scenario-based prototype for SIH demonstration · Not an official emergency alert system
+        Scenario-based Relocation for SIH demonstration · Not an official emergency alert system
       </footer>
     </div>
   );

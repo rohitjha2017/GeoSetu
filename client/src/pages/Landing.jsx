@@ -27,7 +27,7 @@ export default function Landing() {
             </span>
           </div>
           <span className="rounded-full bg-slate-100 px-3 py-1 text-xs font-medium text-slate-500">
-            Scenario-based prototype
+            Scenario-based Relocation
           </span>
         </div>
       </header>
@@ -97,7 +97,7 @@ export default function Landing() {
 
       <section className="border-t border-slate-200 bg-white">
         <div className="mx-auto max-w-6xl px-4 py-10">
-          <h2 className="text-lg font-semibold text-brand-800">About this prototype</h2>
+          <h2 className="text-lg font-semibold text-brand-800">About this Platform</h2>
           <p className="mt-2 max-w-3xl text-sm text-slate-600">
             This platform demonstrates a full decision-support workflow — from a flood scenario, to
             dynamic risk zones, to vulnerable-village identification, relocation prioritization,
@@ -105,7 +105,7 @@ export default function Landing() {
             using the application's actual underlying data.
           </p>
           <div className="mt-4 rounded-lg border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-800">
-            <strong>Scenario-based prototype:</strong> risk zones are generated from a deterministic
+            <strong>Scenario-based reloca:</strong> risk zones are generated from a deterministic
             demo scoring model driven by a user-adjustable water-level scenario. This is not a
             real-time or verified flood prediction system.
           </div>
