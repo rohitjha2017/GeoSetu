@@ -1,0 +1,10 @@
+{
+  "note": "PROTOTYPE CONFIG — not a hydrological model. Defines how far a flood buffer extends from the Koshi river centerline for a given scenario water level. Used purely to render illustrative zone bands on the map and is NOT a survey-grade inundation model.",
+  "riverId": "river-koshi",
+  "waterLevelRange": { "minM": 6.0, "maxM": 10.0 },
+  "bufferBandsKm": [
+    { "level": "yellow", "bufferAtMinM": 1.5, "bufferAtMaxM": 4.0 },
+    { "level": "orange", "bufferAtMinM": 0.8, "bufferAtMaxM": 2.5 },
+    { "level": "red", "bufferAtMinM": 0.3, "bufferAtMaxM": 1.3 }
+  ]
+}

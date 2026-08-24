@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dist-saharsa",
+    "name": "Saharsa",
+    "center": { "lat": 25.8825, "lng": 86.5921 },
+    "population": 1897102,
+    "floodProne": true
+  },
+  {
+    "id": "dist-supaul",
+    "name": "Supaul",
+    "center": { "lat": 26.1259, "lng": 86.6041 },
+    "population": 2229076,
+    "floodProne": true
+  },
+  {
+    "id": "dist-madhepura",
+    "name": "Madhepura",
+    "center": { "lat": 25.9221, "lng": 86.7918 },
+    "population": 2001762,
+    "floodProne": true
+  },
+  {
+    "id": "dist-khagaria",
+    "name": "Khagaria",
+    "center": { "lat": 25.5022, "lng": 86.4672 },
+    "population": 1666886,
+    "floodProne": true
+  }
+]

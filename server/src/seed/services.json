@@ -1,0 +1,17 @@
+[
+  { "id": "svc-01", "type": "shelter", "name": "Nirmali Relief Shelter", "location": { "lat": 26.3300, "lng": 86.6100 }, "districtId": "dist-supaul", "capacity": 1500 },
+  { "id": "svc-02", "type": "shelter", "name": "Simri Bakhtiyarpur Community Shelter", "location": { "lat": 25.7500, "lng": 86.6000 }, "districtId": "dist-saharsa", "capacity": 1200 },
+  { "id": "svc-03", "type": "shelter", "name": "Alauli Flood Relief Camp", "location": { "lat": 25.5450, "lng": 86.6350 }, "districtId": "dist-khagaria", "capacity": 1000 },
+  { "id": "svc-04", "type": "hospital", "name": "Sadar Hospital Saharsa", "location": { "lat": 25.8800, "lng": 86.6000 }, "districtId": "dist-saharsa" },
+  { "id": "svc-05", "type": "hospital", "name": "Sadar Hospital Supaul", "location": { "lat": 26.1250, "lng": 86.6000 }, "districtId": "dist-supaul" },
+  { "id": "svc-06", "type": "hospital", "name": "Sadar Hospital Madhepura", "location": { "lat": 25.9250, "lng": 86.7900 }, "districtId": "dist-madhepura" },
+  { "id": "svc-07", "type": "hospital", "name": "Sadar Hospital Khagaria", "location": { "lat": 25.5050, "lng": 86.4700 }, "districtId": "dist-khagaria" },
+  { "id": "svc-08", "type": "police", "name": "Simri Bakhtiyarpur Police Station", "location": { "lat": 25.7400, "lng": 86.5950 }, "districtId": "dist-saharsa" },
+  { "id": "svc-09", "type": "police", "name": "Nirmali Police Station", "location": { "lat": 26.3200, "lng": 86.5950 }, "districtId": "dist-supaul" },
+  { "id": "svc-10", "type": "police", "name": "Alauli Police Station", "location": { "lat": 25.5320, "lng": 86.6220 }, "districtId": "dist-khagaria" },
+  { "id": "svc-11", "type": "relief_centre", "name": "Madhepura District Relief Centre", "location": { "lat": 25.9221, "lng": 86.7918 }, "districtId": "dist-madhepura", "capacity": 900 },
+  { "id": "svc-12", "type": "relief_centre", "name": "Khagaria District Relief Centre", "location": { "lat": 25.5022, "lng": 86.4672 }, "districtId": "dist-khagaria", "capacity": 800 },
+  { "id": "svc-13", "type": "shelter", "name": "Chhatapur Upland Shelter", "location": { "lat": 26.0650, "lng": 86.7100 }, "districtId": "dist-supaul", "capacity": 700 },
+  { "id": "svc-14", "type": "hospital", "name": "Murliganj PHC", "location": { "lat": 25.9020, "lng": 86.9800 }, "districtId": "dist-madhepura" },
+  { "id": "svc-15", "type": "police", "name": "Khagaria Sadar Police Station", "location": { "lat": 25.5000, "lng": 86.4650 }, "districtId": "dist-khagaria" }
+]

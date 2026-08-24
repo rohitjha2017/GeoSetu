@@ -1,0 +1,6 @@
+[
+  { "id": "hist-2008", "year": 2008, "event": "Koshi embankment breach (Kusaha)", "districtsAffected": ["dist-supaul", "dist-saharsa", "dist-madhepura"], "note": "Widely documented major embankment breach event. Included as a reference historical event for prototype context; figures below are illustrative, not official statistics." },
+  { "id": "hist-2017", "year": 2017, "event": "North Bihar flooding", "districtsAffected": ["dist-supaul", "dist-saharsa", "dist-madhepura", "dist-khagaria"], "note": "Illustrative prototype entry representing a known flood-affected year in the region." },
+  { "id": "hist-2019", "year": 2019, "event": "Monsoon flooding", "districtsAffected": ["dist-khagaria", "dist-saharsa"], "note": "Illustrative prototype entry." },
+  { "id": "hist-2021", "year": 2021, "event": "Monsoon flooding", "districtsAffected": ["dist-supaul", "dist-madhepura"], "note": "Illustrative prototype entry." }
+]

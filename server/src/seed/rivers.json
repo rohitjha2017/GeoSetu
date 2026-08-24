@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "river-koshi",
+        "name": "Koshi River",
+        "note": "Simplified prototype centerline, not a surveyed hydrological dataset"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [86.9021, 26.6200],
+          [86.8701, 26.5100],
+          [86.8340, 26.3800],
+          [86.7990, 26.2500],
+          [86.7650, 26.1250],
+          [86.7300, 26.0100],
+          [86.6950, 25.9200],
+          [86.6600, 25.8400],
+          [86.6300, 25.7500],
+          [86.6000, 25.6600],
+          [86.5750, 25.5700],
+          [86.5400, 25.4900],
+          [86.5000, 25.4300]
+        ]
+      }
+    }
+  ]
+}
